@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deorikhiyanat@gmail.com**
 
-- 📄 Know about my experiences [https://lavender-gloria-77.tiiny.site/](https://lavender-gloria-77.tiiny.site/)
+- 📄 Know about my experiences [https://rb.gy/sf5736/](https://lavender-gloria-77.tiiny.site/)
 
 - ⚡ Fun fact **I think I am good at Chess**
 
