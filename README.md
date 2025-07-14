@@ -1,4 +1,4 @@
-![logo](https://github.com/Khiyanat-Deori/Khiyanat-Deori/blob/main/banner.png)
+![logo](https://github.com/Khiyanat-Deori/Khiyanat-Deori/blob/main/Khiyanat.png)
 <h1 align="center">Hi 👋, I'm Khiyanat</h1>
 <h3 align="center">A passionate technical leader and project manager from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Khiyanat-Deori/Khiyanat-Deori/blob/main/coding.gif">
