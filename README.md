@@ -1,11 +1,11 @@
 ![logo](https://github.com/Khiyanat-Deori/Khiyanat-Deori/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Khiyanat</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate technical leader and project manager from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Khiyanat-Deori/Khiyanat-Deori/blob/main/coding.gif">
 
-- 🔭 I’m currently working on **Course90**
+- 🔭 I’m currently working on **Deccan AI**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **react and java**
 
